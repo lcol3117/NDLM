@@ -1,4 +1,3 @@
-import java.awt.geom.Arc2D
 import kotlin.math.*
 
 fun main(args: Array<String>): Unit {
